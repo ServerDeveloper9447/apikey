@@ -1,0 +1,26 @@
+{
+  "name": "apikey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ServerDeveloper9447/apikey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ServerDeveloper9447/apikey/issues"
+  },
+  "homepage": "https://github.com/ServerDeveloper9447/apikey#readme",
+  "dependencies": {
+    "@prince25/discord-webhook-sender": "^1.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.1"
+  }
+}
